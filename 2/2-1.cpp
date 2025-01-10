@@ -33,7 +33,6 @@ int main() {
         }
 
         if (isSafe) {
-            cout << line << endl;
             safe++;
         }
     }
